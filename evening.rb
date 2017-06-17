@@ -1,2 +1,2 @@
-msg = "Good evening!
+msg = "Good evening!"
 puts msg
